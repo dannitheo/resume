@@ -1,5 +1,5 @@
 ## resume
-1 . my profile on LKD https://www.linkedin.com/in/daniellealvesdeoliveira/
+Olá eu sou Danielle, mas pode me chamar de Dani ^^
 ## about me
 Prononous (Ela/Ella/She)
 
