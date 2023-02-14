@@ -3,6 +3,20 @@ I'm Danielle, but you can call me Dani, welcome to my profile. ^^
 ## about me
 Prononous (Ela/Ella/She)
 
+I'm Danielle, but you can call me Dani, welcome to my profile.
+
+End-2-end Attraction and Selection for different position complexities, market mapping, job search and strategies to support all diversity groups.
+
+Business Owner: KPIs, OKRs, Vendors (third parties), Benefits, Diversity and Inclusion.
+
+Proven experience with Applicant Tracking Systems and the use of recruitment technology and social media to find candidates.
+
+Advanced knowledge of Microsoft 365 and Google Workspace platforms.
+
+Experience hiring in the business areas: Operations, Commercial, Corporate, Data, Product and Tech with knowledge of public and private companies.
+
+Volunteer at Institute Row my Rhumb an organization that lovely work for the inclusion of children and teenagers with disability in the practice of sports in my free time.
+
 <div> 
 
   <a href="https://github.com/dannitheo">
