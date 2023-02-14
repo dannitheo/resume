@@ -1,9 +1,5 @@
 ## resume
 I'm Danielle, but you can call me Dani, welcome to my profile. ^^
-## about me
-Prononous (Ela/Ella/She)
-
-I'm Danielle, but you can call me Dani, welcome to my profile.
 
 End-2-end Attraction and Selection for different position complexities, market mapping, job search and strategies to support all diversity groups.
 
@@ -17,6 +13,12 @@ Experience hiring in the business areas: Operations, Commercial, Corporate, Data
 
 Volunteer at Institute Row my Rhumb an organization that lovely work for the inclusion of children and teenagers with disability in the practice of sports in my free time.
 
+## about me
+Prononous (Ela/Ella/She)
+
+I live in SP, but I have mobility to anywhere.
+
+
 <div> 
 
   <a href="https://github.com/dannitheo">
@@ -25,7 +27,7 @@ Volunteer at Institute Row my Rhumb an organization that lovely work for the inc
    
 <div> 
  	<a href="https://discord.gg/dannitheo" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:thdanni@icloud.com"><img src="https://img.shields.io/badge/-icloud-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thdanni@icloud.com"><img src="https://img.shields.io/badge/-icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniellealvesdeoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
