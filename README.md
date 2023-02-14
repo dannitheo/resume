@@ -17,7 +17,8 @@ Volunteer at Institute Row my Rhumb an organization that lovely work for the inc
 Prononous (Ela/Ella/She)
 
 I live in SP, but I have mobility to anywhere.
-
+I speak english, spanhish and portuguese.
+Sign language student.
 
 <div> 
 
