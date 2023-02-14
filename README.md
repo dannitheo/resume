@@ -1,5 +1,5 @@
 ## resume
-Olá eu sou Danielle, mas pode me chamar de Dani ^^
+I'm Danielle, but you can call me Dani, welcome to my profile. ^^
 ## about me
 Prononous (Ela/Ella/She)
 
