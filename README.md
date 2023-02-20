@@ -13,6 +13,8 @@ Experience hiring in the business areas: Operations, Commercial, Corporate, Data
 
 Volunteer at Institute Row my Rhumb an organization that lovely work for the inclusion of children and teenagers with disability in the practice of sports in my free time.
 
+Now I studying Sign language and developing HR projects on the GitHub community.
+
 ## about me
 Prononous (Ela/Ella/She)
 
