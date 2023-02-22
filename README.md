@@ -29,7 +29,7 @@ Sign language student.
  </div>
    
 <div> 
- 	 <a href="https://discord.gg/thdanni#5604" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 	 <a href="https://discord.gg/@thdanni" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thdanni@icloud.com"><img src="https://img.shields.io/badge/-icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniellealvesdeoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
