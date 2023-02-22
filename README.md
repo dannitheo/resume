@@ -1,5 +1,5 @@
 ## resume
-I'm Danielle, but you can call me Dani, welcome to my profile. ^^
+I'm Danielle, but you can call me Dani, welcome to my profile ^^
 
 End-2-end Attraction and Selection for different position complexities, market mapping, job search and strategies to support all diversity groups.
 
@@ -11,9 +11,9 @@ Advanced knowledge of Microsoft 365 and Google Workspace platforms.
 
 Experience hiring in the business areas: Operations, Commercial, Corporate, Data, Product and Tech with knowledge of public and private companies.
 
-Volunteer at Institute Row my Rhumb an organization that lovely work for the inclusion of children and teenagers with disability in the practice of sports in my free time.
+Volunteer at Institute Row my Rhumb an organization that lovely work for the inclusion of children and teenagers with disability in the practice of sports in my free time I play aquatics sports.
 
-Now I studying Sign language and developing HR projects on the GitHub community.
+Now I studying sign language and developing HR projects on the GitHub community.
 
 ## about me
 Prononous (Ela/Ella/She)
