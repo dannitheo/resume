@@ -1,19 +1,17 @@
 ## resume
-I'm Danielle, but you can call me Dani, welcome to my profile ^^
+I'm Danielle, but you can call me Dani, welcome to my profile (=
 
-End-2-end Attraction and Selection for different position complexities, market mapping, job search and strategies to support all diversity groups.
+Owner of all stages of Attraction and Selection for different job complexities, market mapping, job search, job description, posting and offer, job exit interview and strategies to serve all diversity groups.
 
 Business Owner: KPIs, OKRs, Vendors (third parties), Benefits, Diversity and Inclusion.
 
-Proven experience with Applicant Tracking Systems and the use of recruitment technology and social media to find candidates.
+Tools: Microsoft 365, Google Workspace, IOS, SAP, Espaider, Jira, Notion, Canvas, Miro, Gantt, Kaban, Slack.
 
-Advanced knowledge of Microsoft 365 and Google Workspace platforms.
+ATS: Kenoby, Gupy, Taleo, Workday, LinkedIn Recruiter, Glassdoor, GitHub.
 
-Experience hiring in the business areas: Operations, Commercial, Corporate, Data, Product and Tech with knowledge of public and private companies.
+Experience in hiring in business areas: Ops, Expansion, Business & Strategy, Performance & Growth, Engaging Experience, Data & Analytics and Tech with knowledge of public and private organization’s.
 
-Volunteer at Institute Row my Rhumb an organization that lovely work for the inclusion of children and teenagers with disability in the practice of sports in my free time I play aquatics sports.
-
-Now I studying sign language and developing HR projects on the GitHub community.
+I like to read and playing aquatics sports.
 
 ## about me
 Prononous (Ela/Ella/She)
