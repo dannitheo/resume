@@ -1,17 +1,37 @@
 ## resume
-I'm Danielle, but you can call me Dani, welcome to my profile (=
+🙋‍♀️ I'm Danielle, but you can call me Dani, welcome to my profile (=
 
-Owner of all stages of Attraction and Selection for different job complexities, market mapping, job search, job description, posting and offer, job exit interview and strategies to serve all diversity groups.
+🔺 Business Owner: KPIs, OKRs, Vendors (third parties), Benefits, Diversity and Inclusion.
 
-Business Owner: KPIs, OKRs, Vendors (third parties), Benefits, Diversity and Inclusion.
+🔺 Owner of developed and implemented effective sourcing and recruitment strategies and talent, including job postings, job boards, social media, professional networks, and other channels.
 
-Tools: Microsoft 365, Google Workspace, IOS, SAP, Espaider, Jira, Notion, Canvas, Miro, Gantt, Kaban, Slack.
+🔺 Screen resumes and conduct initial interviews to assess candidate qualifications and fit.
 
-ATS: Kenoby, Gupy, Taleo, Workday, LinkedIn Recruiter, Glassdoor, GitHub.
+🔺 Conduct in-depth interviews with candidates and provide detailed assessments to hiring managers.
 
-Experience in hiring in business areas: Ops, Expansion, Business & Strategy, Performance & Growth, Engaging Experience, Data & Analytics and Tech with knowledge of public and private organization’s.
+🔺 Build and maintain a pipeline of qualified candidates for future hiring needs.
 
-I like to read and playing aquatics sports.
+🔺 Manage candidate communications and ensure a positive candidate experience throughout recruitment.
+
+🔺 Collaborate with hiring managers and HR team members to develop job descriptions and job postings that accurately reflect our hiring needs.
+
+🔺 Stay current with industry trends and developments related to talent acquisition and make recommendations for process improvements as needed.
+
+🔺 Strong customer service skills with a cooperative attitude and team-oriented disposition. 
+
+🔺 Excellent organizational and time management skills, with the ability to manage multiple priorities and meet deadlines in a fast-paced environment.
+
+🔺 Ability to work independently and as part of a team.
+
+🔺 Proven analytical, problem-solving, and project management skills.
+
+🔺 Experience in hiring in business areas: Non-Tech, Ops, Expansion, Business & Strategy, Performance & Growth, Engaging Experience, Data & Analytics, and Tech with knowledge of public and private organizations.
+
+🔺 Tools: Microsoft 365, Google Workspace, IOS, SAP, Espaider, Jira, Notion, Canvas, Miro, Gantt, Kanban, Slack.
+
+🔺 ATS: Kenoby, Gupy, Taleo, Workday, LinkedIn Recruiter, Glassdoor, GitHub.
+
+🔺 In my spare time I like reading and playing aquatics sports.
 
 ## about me
 Prononous (Ela/Ella/She)
