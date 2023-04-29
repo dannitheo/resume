@@ -38,7 +38,7 @@ Prononous (Ela/Ella/She)
 
 I live in SP, but I have mobility to anywhere.
 I speak english, spanhish and portuguese.
-Sign language student.
+Volunteer
 
 <div> 
 
