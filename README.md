@@ -1,9 +1,9 @@
 ## resume
 🙋‍♀️ I'm Danielle, but you can call me Dani, welcome to my profile (=
 
-🔺 Business Owner: KPIs, OKRs, Vendors (third parties), Benefits, Diversity and Inclusion.
+🔺 Business Owner: KPIs, OKRs, Vendors, Benefits, Diversity and Inclusion.
 
-🔺 Owner of developed and implemented effective sourcing and recruitment strategies and talent, including job postings, job boards, social media, professional networks, and other channels.
+🔺 Owner of developed and implemented effective sourcing and recruitment strategies and talent, including job postings, job boards, social media, professional networksand other channels.
 
 🔺 Screen resumes and conduct initial interviews to assess candidate qualifications and fit.
 
@@ -27,11 +27,11 @@
 
 🔺 Experience in hiring in business areas: Non-Tech, Ops, Expansion, Business & Strategy, Performance & Growth, Engaging Experience, Data & Analytics, and Tech with knowledge of public and private organizations.
 
-🔺 Tools: Microsoft 365, Google Workspace, IOS, SAP, Espaider, Jira, Notion, Canvas, Miro, Gantt, Kanban, Slack.
+🔺 Tools: Microsoft 365, Google Workspace, SAP, Espaider, Notion, Canvas, Miro, Gantt, Kanban, Slack.
 
-🔺 ATS: Kenoby, Gupy, Taleo, Workday, LinkedIn Recruiter, Glassdoor, GitHub.
+🔺 ATS: Gupy, Taleo, Workday, LinkedIn Recruiter, Glassdoor, GitHub.
 
-🔺 In my spare time I like reading and playing aquatics sports.
+🔺 In my free time I like reading and playing aquatic sports.
 
 ## about me
 Prononous (Ela/Ella/She)
